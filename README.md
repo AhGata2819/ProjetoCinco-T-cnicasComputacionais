@@ -1,1 +1,1 @@
-# ProjetoCinco-T-cnicasComputacionais
+# ProjetoCinco-TecnicasComputacionais
